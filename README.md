@@ -1,0 +1,1 @@
+# Inspirational messages randomizer
